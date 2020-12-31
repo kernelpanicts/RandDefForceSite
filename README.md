@@ -1,2 +1,0 @@
-# RandDefForceSite
-Rando Defense Force
